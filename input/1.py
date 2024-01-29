@@ -9,4 +9,4 @@ str1 = input("what is your name? ")
 
 print(str1)
 
-
+str-01 = input("what the value: ")
